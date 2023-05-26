@@ -1,5 +1,10 @@
 # Climate Change and Seasonality Analysis README
 
+Final Project located in files:
+- CON_climate_seasonality_analysis.ipynb
+- climate_seasonality_analysis.ipynb
+- Demo_Graph.ipynb
+
 ## Description
 This Python program performs sector analysis on a set of Exchange Traded Funds (ETFs) that represent various sectors of the economy. It extracts stock market data using the Yahoo Finance (YFinance) library and performs analysis on several aspects like weekly returns, Sharpe Ratio, Risk, Correlation, Beta, Rolling Beta, and Seasonality. This analysis is primarily based on the time period from 2008 to 2023. 
 
